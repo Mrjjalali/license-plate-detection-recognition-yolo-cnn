@@ -1,1 +1,0 @@
-# license-plate-detection-recognition-yolo-cnn
